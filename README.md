@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashfaaq16
+- 👋 Hi, I’m @ashfaaqrfth
 - 👀 I’m interested in python, html, css
 - 🌱 I’m currently learning python, html, css
 - 💞️ I’m looking to collaborate on ...
