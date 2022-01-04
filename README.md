@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrfth" alt="ashfaaqrfth" /></a> </p>
 
-- 🔭 I’m currently working on [Currency converter](https://github.com/ashfaaqrfth/Currency-converter)
+- 👨‍💻 I’m currently working on [Currency converter](https://github.com/ashfaaqrfth/Currency-converter)
 
-- 🌱 I’m currently learning **Python**
+- 💻 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with [Python](https://github.com/ashfaaqrfth/Spreadsheet-proccessor)
-
-- 👨‍💻 All of my projects are available at [https://ashfaaq.epizy.com/](https://ashfaaq.epizy.com/)
+- 🛠 All of my projects are available at [https://ashfaaq.epizy.com/](https://ashfaaq.epizy.com/)
 
 - 📝 I regularly write articles on [https://ashfaaqrifath.medium.com/](https://ashfaaqrifath.medium.com/)
 
