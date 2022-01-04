@@ -24,7 +24,7 @@
 <a href="https://instagram.com/ashfaaq_rifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashfaaq_rifath" height="30" width="40" /></a>
 <a href="https://medium.com/@ashfaaqrifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashfaaqrifath" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ashfaaq rifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashfaaq rifath" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashfaaq rifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaq rifath" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashfaaqrifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaq rifath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
