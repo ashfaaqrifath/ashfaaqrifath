@@ -27,7 +27,7 @@
   
 <a href="https://www.youtube.com/c/ashfaaq rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashfaaq rifath" width="26px" /></a>
   
-<a href="https://auth.geeksforgeeks.org/user/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaqrifath" width="28px" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaqrifath" width="35px" /></a>
 </p>
 
 <br/>
