@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaaqrifath&show_icons=true&locale=en&layout=compact" alt="ashfaaqrifath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&show_icons=true&locale=en" alt="ashfaaqrifath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&show_icons=true&theme=radical" alt="ashfaaqrifath" /></p>
