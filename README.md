@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/16897406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16897406" width="24px" /></a>
-<a href="https://fb.com/ashfaaq.rifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaaq.rifath" width="26px" /></a>
-<a href="https://instagram.com/ashfaaq_rifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashfaaq_rifath" width="24px" /></a>
-<a href="https://medium.com/@ashfaaqrifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashfaaqrifath" width="26px" /></a>
-<a href="https://www.youtube.com/c/ashfaaq rifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashfaaq rifath" width="24px" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashfaaqrifath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaqrifath" width="26px" /></a>
+<a href="https://stackoverflow.com/users/16897406" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16897406" width="24px" /></a>
+<a href="https://fb.com/ashfaaq.rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaaq.rifath" width="26px" /></a>
+<a href="https://instagram.com/ashfaaq_rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashfaaq_rifath" width="24px" /></a>
+<a href="https://medium.com/@ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashfaaqrifath" width="26px" /></a>
+<a href="https://www.youtube.com/c/ashfaaq rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashfaaq rifath" width="24px" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaqrifath" width="26px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
