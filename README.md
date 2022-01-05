@@ -1,7 +1,7 @@
 <h1 align="center">Hi there I'm Ashfaaq Rifath 👋</h1>
 <h3 align="center">I'm a Tech-Enthusiast And I Love Automation Using Python</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath" alt="ashfaaqrifath" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath&show_icons=true&theme=radical" alt="ashfaaqrifath" /></a> </p>
 
 - 👨‍💻 I’m currently working on [Currency converter](https://github.com/ashfaaqrfth/Currency-converter)
 
