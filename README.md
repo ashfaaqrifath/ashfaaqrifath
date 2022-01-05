@@ -7,9 +7,9 @@
 
 - 💻 I’m currently learning **Python**
 
-- 🙍‍♂️ Visit my portfolio at [https://ashfaaq.epizy.com/](https://ashfaaq.epizy.com/)
+- 🙍‍♂️ Visit my portfolio at [ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
 
-- 📝 I regularly write articles on [https://ashfaaqrifath.medium.com/](https://ashfaaqrifath.medium.com/)
+- 📝 I regularly write articles on [Medium.com/](https://ashfaaqrifath.medium.com/)
 
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
 
