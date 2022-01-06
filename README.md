@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **Python**
 
-- 🙍‍♂️ Visit my portfolio at [ ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
+- 🙋 Visit my portfolio at [ ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
 
 - 📝 I regularly write articles on [ Medium.com](https://ashfaaqrifath.medium.com/)
 
