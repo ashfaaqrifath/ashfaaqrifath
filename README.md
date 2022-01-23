@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&show_icons=true&theme=radical" alt="ashfaaqrifath" /></p>
 
-![Logo](https://ashfaaqrifath.github.io/aq%20logo.jpg)
+<center><img src="aq logo.jpg" height="250" widht="250"></center>
