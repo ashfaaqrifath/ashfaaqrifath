@@ -1,4 +1,7 @@
-<h1 align="center">Hey there I'm Ashfaaq Rifath <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> </h1>
+<!---<h1 align="center">Hey there I'm Ashfaaq Rifath <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> </h1>--->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23DCDCDC&size=30&lines=Hey+there+I'm+Ashfaaq+Rifath)](https://git.io/typing-svg)
+
 <h3 align="center">I'm a Tech-Enthusiast And I Love Automation Using Python</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath&show_icons=true&theme=dracula" alt="ashfaaqrifath" /></a> </p>
