@@ -44,8 +44,25 @@
 <h1></h1>
 <h3 align="left">Top Repositories:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Endecrypter&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Endecrypter)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Speechtron&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Speechtron)
-<h1></h1>
-<img src="https://activity-graph.herokuapp.com/graph?username=ashfaaqrifath&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Endecrypter&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Endecryptr)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Speechtron&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Speechtron)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Speechtron&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Speechtron)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Speechtron&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Speechtron)            
+<h1></h1>   
 
-<center><img src="https://ashfaaqrifath.github.io/aq%20logo.png" alt="My official logo"></center>
+<h6 align="center">
+  <a href="https://github.com/ashfaaqrifath">
+<img src="https://activity-graph.herokuapp.com/graph?username=ashfaaqrifath&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
+  </a>
+</h6>
+
+<h6 align="center">
+  <a href="https://github.com/ashfaaqrifath">
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashfaaqrifath&theme=nord_dark)
+    
+  </a>
+</h6>
+
+<h6 align="center">
+  <a href="https://ashfaaqrifath.github.io">
+    <img src="https://ashfaaqrifath.github.io/aq%20logo.png" alt="My official logo" width="30%">
+  </a>
+</h6>
