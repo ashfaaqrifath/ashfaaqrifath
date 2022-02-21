@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact- **There is over 700 programming languages.**
 <h1></h1>
-<h3 align="left">🔗Social platforms</h3>
+<h3 align="left">🌎Social platforms</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16897406" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16897406" width="26px" /></a>
   
