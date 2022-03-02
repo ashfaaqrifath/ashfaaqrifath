@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
 
-- ⚡ Fun fact- **There is over 700 programming languages.**
+- ⚡ Fun fact- **There's over 700 programming languages.**
 <h1></h1>
 <h3 align="left">🌎Social platforms</h3>
 <p align="left">
