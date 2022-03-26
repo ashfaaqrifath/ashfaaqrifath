@@ -16,7 +16,7 @@
   
 - 🛠️ I love automation using Python
 
-- 👌 I use [ Visual Studio Code](https://code.visualstudio.com/download)
+- 👌 I'm using [ Visual Studio Code](https://code.visualstudio.com/download)
 
 - 🙋‍♂️ Visit my portfolio at [ ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
 
