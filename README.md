@@ -14,7 +14,9 @@
 
 - 💻 I’m currently learning **Python**
   
-- 👌 I love automation using Python
+- 🛠️ I love automation using Python
+
+- 👌 I use [ Visual Studio Code](https://code.visualstudio.com/download)
 
 - 🙋‍♂️ Visit my portfolio at [ ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
 
