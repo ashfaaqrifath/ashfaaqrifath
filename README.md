@@ -10,7 +10,7 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath&show_icons=true&theme=onestar" alt="ashfaaqrifath" /></a></p>
 <h1></h1>
 
-- 👨‍💻 I’m currently working on [Casper Virtual Assistant](https://github.com/ashfaaqrifath/Casper)
+- 👨‍💻 I’m currently working on [Casper - Desktop Assistant](https://github.com/ashfaaqrifath/Casper)
 
 - 💻 I’m currently learning **Python** 🐍
   
@@ -19,8 +19,6 @@
 - 👌 I'm using [ Visual Studio Code](https://code.visualstudio.com/download)
 
 - 🙋‍♂️ Visit my portfolio at [ ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
-
-- 📝 I write articles on [ Medium.com](https://ashfaaqrifath.medium.com/)
 
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
 
