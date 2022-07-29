@@ -68,6 +68,6 @@
 
 <h6 align="center">
   <a href="https://ashfaaqrifath.github.io">
-    <img src="https://ashfaaqrifath.github.io/aqlogo6.png" alt="My official logo" width="30%">
+    <img src="https://ashfaaqrifath.github.io/aqlogo9.png" alt="My official logo" width="30%">
   </a>
 </h6>
