@@ -30,9 +30,8 @@
   
 <a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashfaaqrfth" width="26px" /></a>
   
-<a href="https://medium.com/@ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashfaaqrifath" width="26px" /></a>
-  
-<a href="https://auth.geeksforgeeks.org/user/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashfaaqrifath" width="35px" /></a>
+<a href="https://instagram.com/@ashfaaq_rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ashfaaq_rifath" width="26px" /></a>
+
 </p>
 <br>
 <h1></h1>
