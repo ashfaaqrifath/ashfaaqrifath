@@ -18,8 +18,6 @@
 
 - 👌 I'm using [ Visual Studio Code](https://code.visualstudio.com/download)
 
-- 🙋‍♂️ Visit my portfolio at [ ashfaaq.epizy.com](https://ashfaaq.epizy.com/)
-
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
 <h1></h1>
 <h3 align="left">🌎Social platforms</h3>
