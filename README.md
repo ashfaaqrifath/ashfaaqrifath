@@ -25,13 +25,13 @@
 <p align="left">
 <a href="https://github.com/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashfaaqrifath" width="40px" /></a>
   
-<a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashfaaqrfth" width="40px" /></a>
+<a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashfaaqrifth" width="40px" /></a>
 
 <a href="https://stackoverflow.com/users/16897406" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16897406" width="40px" /></a>
   
 <a href="https://fb.com/ashfaaq.rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaaq.rifath" width="40px" /></a>
   
-<a href="https://instagram.com/@ashfaaq_rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ashfaaq_rifath" width="40px" /></a>
+<a href="https://instagram.com/@ashfaaq_rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ashfaaqrifath" width="40px" /></a>
 </p>
 
 <br>
@@ -45,7 +45,6 @@
 <br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaaqrifath&show_icons=true&locale=en&layout=compact&theme=react&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats">
-<br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath's Github Stats" /></a>
     
 <h1></h1>
