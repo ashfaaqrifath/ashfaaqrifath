@@ -23,6 +23,8 @@
 <h3 align="left">🌎Social platforms</h3>
 
 <p align="left">
+<a href="https://github.com/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashfaaqrifath" width="40px" /></a>
+  
 <a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashfaaqrfth" width="40px" /></a>
 
 <a href="https://stackoverflow.com/users/16897406" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16897406" width="40px" /></a>
