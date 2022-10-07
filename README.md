@@ -49,14 +49,14 @@
 <h3 align="left">🔔Activity:</h3>
 <h6 align="center">
   <a href="https://github.com/ashfaaqrifath">
-<img src="https://activity-graph.herokuapp.com/graph?username=ashfaaqrifath&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </a>
 </h6>
 
 <h6 align="center">
   <a href="https://github.com/ashfaaqrifath">
     
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashfaaqrifath&theme=nord_dark)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
     
   </a>
 </h6>
