@@ -12,13 +12,13 @@
 
 - 👨‍💻 I’m currently working on [TerminalChat](https://github.com/ashfaaqrifath/TerminalChat)
 
-- 💻 I’m currently learning **Python** 🐍
-  
-- 🛠️ I love automation using Python
+- 💻 I’m currently learning **C++**
 
-- 👌 I'm using [ Visual Studio Code](https://code.visualstudio.com/download)
+- 👌 I use [ Visual Studio Code](https://code.visualstudio.com/download)
 
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
+
+- 🌐 Visit my [ Portofolio site](https://ashfaaqrifath.github.io)
 <h1></h1>
 <h3 align="left">🌎Social platforms</h3>
 
@@ -26,8 +26,6 @@
 <a href="https://github.com/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashfaaqrifath" width="40px" /></a>
   
 <a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashfaaqrifth" width="40px" /></a>
-
-<a href="https://stackoverflow.com/users/16897406" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16897406" width="40px" /></a>
   
 <a href="https://fb.com/ashfaaq.rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaaq.rifath" width="40px" /></a>
   
@@ -40,7 +38,7 @@
 <h3 align="left">💻Languages and Tools</h3>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,php,arduino,mysql,md,vscode,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,php,arduino,mysql,cpp,vscode,wordpress"/>
 </a>
 <br></br>
 
@@ -49,11 +47,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath's Github Stats" /></a>
     
-<h1></h1>
+<!-- <h1></h1>
 <h3 align="left">⚡Top Repositories</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Casper&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Casper)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Concealium&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Concealium)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=YouTube-Downloader&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/YouTube-Downloader)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=SCP-Foundation-Terminal&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/SCP-Foundation-Terminal)            
-<h1></h1>
+<h1></h1> -->
 
 <h3 align="left">🔔Activity</h3>
 <h6 align="center">
@@ -69,6 +67,6 @@
 
 <h6 align="center">
   <a href="https://ashfaaqrifath.github.io">
-    <img src="https://ashfaaqrifath.github.io/mylogo11.png" alt="My official logo" width="30%">
+    <img src="https://ashfaaqrifath.github.io/assets/images/mylogo9.png" alt="My official logo" width="30%">
   </a>
 </h6>
