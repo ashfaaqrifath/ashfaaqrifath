@@ -42,10 +42,10 @@
 </a>
 <br></br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaaqrifath&show_icons=true&locale=en&layout=compact&theme=react&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath" /></a>  
+<!--a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaaqrifath&show_icons=true&locale=en&layout=compact&theme=react&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath" /></a>  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath's Github Stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath's Github Stats" /></a-->
     
 <!-- <h1></h1>
 <h3 align="left">⚡Top Repositories</h3>
