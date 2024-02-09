@@ -36,7 +36,7 @@
 <h3 align="left">💻Languages and Tools</h3>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,php,arduino,mysql,cpp,vscode,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,php,java,mysql,cpp,vscode,wordpress"/>
 </a>
 <br></br>
 
