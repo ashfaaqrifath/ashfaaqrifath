@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://github.com/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashfaaqrifath" width="40px" /></a>
   
-<a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashfaaqrifth" width="40px" /></a>
+<a href="https://twitter.com/ashfaaqrfth" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ashfaaqrifth" width="40px" /></a>
   
 <a href="https://fb.com/ashfaaq.rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaaq.rifath" width="40px" /></a>
   
