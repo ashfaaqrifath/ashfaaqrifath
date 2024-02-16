@@ -12,11 +12,11 @@
 
 - 👨‍💻 I’m currently learning **Java**
 
-- 💻 I use [ Visual Studio Code](https://code.visualstudio.com/download)
+- 💻 I’m currently working on ___
 
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
 
-- 🌐 Visit my [ Portofolio site](https://ashfaaqrifath.github.io)
+- 🌐 [ Portofolio site](https://ashfaaqrifath.github.io)
 <h1></h1>
 <h3 align="left">🌎Social platforms</h3>
 
