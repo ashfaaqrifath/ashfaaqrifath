@@ -10,14 +10,14 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath&show_icons=true&theme=onestar" alt="ashfaaqrifath" /></a></p>
 <h1></h1>
 
-- 👨‍💻 I’m currently learning **Java**
+<!--- 👨‍💻 I’m currently learning **Java**
 
 - 💻 I’m currently working on ___
 
 - 📫 How to reach me **ashfaaq.rifath2@gmail.com**
 
-- 🌐 [ Portofolio site](https://ashfaaqrifath.github.io)
-<h1></h1>
+- 🌐 [ Portofolio site](https://ashfaaqrifath.github.io)-->
+
 <h3 align="left">🌎Social platforms</h3>
 
 <p align="left">
