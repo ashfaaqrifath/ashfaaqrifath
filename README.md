@@ -5,7 +5,9 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%2357BDDA&size=30&duration=3000&center=true&lines=Hello%2C+There!%F0%9F%91%8B;I'm+Ashfaaq+Rifath.;Welcome+to+my+profile.)](https://git.io/typing-svg)
     
   </a>
+  
 </h1>
+
   <h3></h3>
 <h3>🏆GitHub trophy</h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath&show_icons=true&theme=onestar" alt="ashfaaqrifath" /></a></p>
@@ -63,6 +65,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
       
 </h6>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashfaaqrifath&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaaqrifath" /> </p>
 
 <h6 align="center">
   <a href="https://ashfaaqrifath.github.io">
