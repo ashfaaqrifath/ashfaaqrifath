@@ -21,20 +21,7 @@
 
 - 🌐 [ Portofolio site](https://ashfaaqrifath.github.io)-->
 
-<h3 align="left">🌎Social platforms</h3>
 
-<p align="left">
-<a href="https://github.com/ashfaaqrifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ashfaaqrifath" width="40px" /></a>
-  
-<a href="https://www.linkedin.com/in/ashfaaqrifath/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfaaqrifth" width="40px" /></a>
-  
-<a href="https://fb.com/ashfaaq.rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaaq.rifath" width="40px" /></a>
-  
-<a href="https://instagram.com/@ashfaaq_rifath" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ashfaaqrifath" width="40px" /></a>
-</p>
-
-<br>
-<h1></h1>
 
 <h3 align="left">💻Languages and Tools</h3>
 
