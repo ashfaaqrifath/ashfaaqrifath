@@ -8,10 +8,7 @@
   
 </h1>
 
-  <h3></h3>
-<h3>🏆GitHub trophy</h3>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaaqrifath&show_icons=true&theme=onestar" alt="ashfaaqrifath" /></a></p>
-<h1></h1>
+  
 
 <!--- 👨‍💻 I’m currently learning **Java**
 
