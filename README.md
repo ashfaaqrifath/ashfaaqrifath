@@ -19,25 +19,6 @@
 - 🌐 [ Portofolio site](https://ashfaaqrifath.github.io)-->
 
 
-
-<h3 align="left">💻Languages and Tools</h3>
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,php,java,mysql,cpp,vscode,wordpress"/>
-</a>
-<br></br>
-
-<!--a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaaqrifath&show_icons=true&locale=en&layout=compact&theme=react&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath" /></a>  
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaaqrifath&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px" alt="ashfaaqrifath's Github Stats" /></a-->
-    
-<!-- <h1></h1>
-<h3 align="left">⚡Top Repositories</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Casper&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Casper)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=Concealium&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/Concealium)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=YouTube-Downloader&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/YouTube-Downloader)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashfaaqrifath&repo=SCP-Foundation-Terminal&theme=react&icon_color=3DDC84&border_color=57BDDA&border_radius=15px)](https://github.com/ashfaaqrifath/SCP-Foundation-Terminal)            
-<h1></h1> -->
-
 <h3 align="left">🔔Activity</h3>
 <h6 align="center">
   <a href="https://github.com/ashfaaqrifath">
