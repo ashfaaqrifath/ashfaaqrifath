@@ -19,18 +19,6 @@
 - 🌐 [ Portofolio site](https://ashfaaqrifath.github.io)-->
 
 
-<h3 align="left">🔔Activity</h3>
-<h6 align="center">
-  <a href="https://github.com/ashfaaqrifath">
-  </a>
-</h6>
 
-<h6 align="center">
-  
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-      
-</h6>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashfaaqrifath&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaaqrifath" /> </p>
 
 
